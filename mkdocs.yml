@@ -1,0 +1,11 @@
+site_name: napari-rfseg-dsde
+site_description: A simple plugin to use with napari
+site_author: Mike Shih
+
+theme: readthedocs
+
+
+repo_url: https://github.com/eufmike/napari-rfseg-dsde
+
+pages:
+- Home: index.md
